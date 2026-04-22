@@ -47,5 +47,5 @@ Materials (scale as needed for number of students n):
  - 1 extra example of each structure to show people afterwards
  - 1 more complicated lego structure with 7 bricks
  - n/3=6 bags of the same lego bricks needed to build it
- - [Slides with instructions and discussion questions](../files/legocomm.pptx) (you are free to use or adapt)
+ - [Slides with instructions and discussion questions](/files/legocomm.pptx) (you are free to use or adapt)
 
