@@ -11,7 +11,7 @@ tags:
 Last year I applied for and received a [LITE Seed Grant](https://uwaterloo.ca/centre-for-teaching-excellence/support/teaching-and-learning-research-and-grants/learning-innovation-and-teaching-enhancement-lite-grants) to add some new techniques to STAT 334. The three main things I added were interactive tutorials, a case study competition, and oral exams. I'll talk about each one in a different post.
 
 Part 1: Interactive Tutorial Activities
---
+---
 
 Different instructors use tutorials in different ways, but for me the most effective way is to give the students essentially an in-class assignment. Open book, they can talk to each other, and the instructor and TA(s) walk around and actively help groups. I've long done this in ACTSC 232 and wanted to try to take it even further in STAT 334.
 
